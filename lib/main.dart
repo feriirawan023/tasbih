@@ -33,6 +33,7 @@ class _MyAppState extends State<MyApp> {
         //   title: Text('Tasbih'),
         // ),
         body: Center(
+
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
